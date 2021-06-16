@@ -1,7 +1,6 @@
 name: deploy-container
 
 on:
-  - workflow-dispatch
   push:
     branches:
       - main
